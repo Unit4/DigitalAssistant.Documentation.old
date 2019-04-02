@@ -28,7 +28,7 @@ The Unit4 Wanda digital assistant cloud service can be used in the following sce
 
 #### Required Unit4 People Platform services
 
-The following Unit4 Platform services are required:
+The following Unit4 People Platform services are required:
 
 * Unit4 Identity Services (U4IDS) to provide authentication and identity mapping. U4IDS is a multi-tenant Federation Gateway using the OpenID protocol
 * Unit4 Message Hub to provide message handling / management for notifications
