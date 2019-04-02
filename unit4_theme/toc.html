@@ -1,0 +1,12 @@
+<div class="bs-sidebar hidden-print affix" role="complementary" id="myScrollspy">
+    <ul class="nav bs-sidenav well">
+    {% for toc_item in toc %}
+        <li class="main {% if toc_item.active %}active{% endif %}"><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+        {% for toc_item in toc_item.children %}
+            <li><a class="nav-link" href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+        {% endfor %}
+    {% endfor %}
+
+    </ul>
+    <a class="contribute-link" href="{{ page.edit_url }}" target="_blank">Contribute to this guide</a>
+</div>
