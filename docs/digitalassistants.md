@@ -1,9 +1,9 @@
 
 # Overview of Wanda Digital Assistant skills
 
-This section gives an overview of the currently available skills offered by Wanda. Which digital assistant skills are to be made available for the customer organization is specified at the time of ordering Wanda and these skills are then registered by Unit4 Cloud Operations. 
+This topic gives an overview of the currently available skills offered by Wanda. Which digital assistant skills are to be made available for the customer organization is specified at the time of ordering Wanda and these skills are then registered by Unit4 Cloud Operations. 
 
-Note that this current version of Wanda understands English, Norwegian and Swedish only. However, additional languages will be added in future.
+Note that this current version of Wanda understands English, Spanish, Norwegian and Swedish only. However, additional languages will be added in the future.
 
 Wanda is able to understand utterances which are misspelled or grammatically incorrect.
 
