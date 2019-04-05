@@ -165,7 +165,6 @@ footer {
 .bs-sidenav {
     padding-top:    10px;
     padding-bottom: 10px;
-    border-radius: 5px;
 }
 
 /* All levels of nav */
@@ -199,8 +198,23 @@ footer {
 
 .bs-sidebar .contribute-link {
     padding-left: 20px;
-    padding-top: 8px;
+    padding-top: 12px;
     display: inline-block;
+}
+
+.bs-sidebar .contribute-button {
+    width: 100%; 
+    background-color: transparent; 
+    padding: 4px; 
+    border: 1px solid #d2d6d9; 
+    margin-top: 12px; 
+    cursor: pointer;
+}
+
+.bs-sidebar .contribute-button:hover {
+    background-color: rgba(172,224,245,.25);
+    border: 1px solid #d2d6d9;
+    color: rgba(0,0,0,.9);
 }
 
 /* Show and affix the side nav when space allows it */
