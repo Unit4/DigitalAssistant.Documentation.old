@@ -8,5 +8,9 @@
     {% endfor %}
 
     </ul>
-    <a class="contribute-link" href="{{ page.edit_url }}" target="_blank">Contribute to this guide</a>
+
+    <button onclick="window.open('{{ page.edit_url }}')" class="contribute-button">
+            <span class="fa fa-pencil"></span>&nbsp;
+            Edit this topic
+    </button>
 </div>
