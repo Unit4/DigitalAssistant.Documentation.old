@@ -18,7 +18,7 @@ To make quick edits where you want to do something such as fix a type or correct
 2. Make your changes in the web editor. Click the _**Preview changes**_ tab if you want to check the formatting of your change.
 
 3. Once you're happy with your changes, scroll to the bottom of the page, enter a title and description for your changes and click **Propose file changes**.
-    >![](images/propose-file-changes75pct.png)
+    >![](docs/images/propose-file-changes75pct.png)
 
 4. Create a pull request to ask the owners of the repository to "pull" your changes into their repository. If you're new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information.. When you clicked on **Propose file change** in the figure above, you should have been taken to a new page that looks like this:
 
@@ -38,7 +38,7 @@ For larger contributions where you want to, for example, add one or more new top
 
 2. Clone the forked repo to your local machine and make your changes in the local repo.
 3. When you're ready for review, make a pull request to the upstream master branch.
-    >![](images/create-pullrequest-master.png)
+    >![](docs/images/create-pullrequest-master.png)
 
 A Unit4 team member will review your pull request and merge it, or you might get some feedback with requests for other changes or proposals for alternative changes etc.
 
