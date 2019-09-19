@@ -20,7 +20,7 @@ To make quick edits where you want to do something such as fix a type or correct
 3. Once you're happy with your changes, scroll to the bottom of the page, enter a title and description for your changes and click **Propose file changes**.
     >![](docs/images/propose-file-changes75pct.png)
 
-4. Create a pull request to ask the owners of the repository to "pull" your changes into their repository. If you're new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information.. When you clicked on **Propose file change** in the figure above, you should have been taken to a new page that looks like this:
+4. Create a pull request to ask the owners of the repository to "pull" your changes into their repository. If you're new to GitHub, see [About Pull Requests](https://help.github.com/en/articles/about-pull-requests) for more information. When you clicked on **Propose file change** in the figure above, you should have been taken to a new page that looks like this:
 
     >![](docs/images/create-pull-request75pct.png)
 
@@ -30,7 +30,7 @@ A Unit4 team member will review your pull request and merge it, or you might get
 
 #### Making larger contributions
 
-For larger contributions where you want to, for example, add one or more new topics then proceed as follows:
+For larger contributions where you want to, for example, add one or more new topics proceed as follows:
 
 1. Create a fork of the repo into your own GitHub account.
 
